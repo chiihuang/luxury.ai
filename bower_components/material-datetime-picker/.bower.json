@@ -1,0 +1,32 @@
+{
+  "name": "material-datetime-picker",
+  "description": "A Vanilla JS Material Design date/time picker component",
+  "main": "dist/material-datetime-picker.js",
+  "authors": [
+    "Joe Whitfield-Seed <joeseed86@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ripjar/material-datetime-picker",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "2.10.6",
+    "rome": "2.1.22"
+  },
+  "version": "2.4.0",
+  "_release": "2.4.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.4.0",
+    "commit": "904f5da7c8b1e67051db0b4a60fe9ea50047d3a6"
+  },
+  "_source": "https://github.com/ripjar/material-datetime-picker.git",
+  "_target": "^2.4.0",
+  "_originalSource": "material-datetime-picker",
+  "_direct": true
+}

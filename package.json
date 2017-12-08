@@ -1,0 +1,22 @@
+{
+  "name": "luxury.ai",
+  "version": "1.0.0",
+  "description": "A mockup website for entrepreneurship course project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasson15/luxury.ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasson15/luxury.ai/issues"
+  },
+  "homepage": "https://github.com/jasson15/luxury.ai#readme",
+  "dependencies": {
+    "ugosansh-mdl-datepicker": "^1.5.0"
+  }
+}
